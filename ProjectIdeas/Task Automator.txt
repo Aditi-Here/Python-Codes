@@ -1,0 +1,24 @@
+A task automator can be similar to a desktop assistant. But it can also be more specialized for specific tasks. To give an idea of how developers utilize Python
+ here are some of the most common automations:
+
+Performing automated market tasks
+Sending out, replying to, and sorting emails
+Filling out PDFs and Excel files
+Converting images, renaming files
+Performing math equations
+Calculating exchange rates
+You can use Python to do alot of more tasks, too – just think of the tasks you do on daily basis, not only on your computer but at home too. 
+You just have to figure out the correct tools you’ll need, and how to write and run the script.
+
+When we talk of tools, since Python is an open-source language, it means we have a ton of tools at our disposal, as well as many libraries and frameworks 
+to help us get started. Some great tools that can help you out include:
+
+Selenium
+Beautiful Soup
+SMTPlib
+A good resource to help out in the automation journey is the amazing book on how to Automate the Boring Stuff with Python. It is a practical guide on how to 
+use various programming tools.
+
+Again, the more unique and advanced your task automator is, the more impressive it will be.
+
+Link: https://automatetheboringstuff.com/

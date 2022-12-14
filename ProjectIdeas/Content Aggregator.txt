@@ -1,0 +1,16 @@
+Content Aggregator
+This is a tool that gathers information such as articles, social media posts, videos, images and so on. 
+Then it displays all that information under one page. This means that users don’t have to manually search each website for what they are looking for.
+
+Creating one is another good way to showcase how you can use your Python expertise to create a useful tool. Content aggregators can be used for many purposes,
+ but they essentially search large swaths of the internet to find specific pieces of information.
+
+You could develop a general content aggregator or a more specialized one. For example, you might create a weather aggregator that pulls weather data from several
+ of the top sources in your region to present a comprehensive weather report.
+
+Working on a project like this you should be comforatble with concepts like:
+
+Python Basics
+How to make use of virtual environments
+Django fundamentals
+Basics of HTML, CSS and JS

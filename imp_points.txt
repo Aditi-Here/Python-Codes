@@ -1,0 +1,3 @@
+1. In a circular array:
+ next=(mid+1)%len(arr)
+ prev=(mid-1+len(arr))%len(arr)

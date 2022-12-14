@@ -1,0 +1,25 @@
+When speaking about an assistant, think about Alexa, Siri and Google's virtual assistant. Lately there have been a rise in development of smart assistants, 
+take a look at your favorite website chances are very high it has a bot that answers common question asked regularly.
+
+Some common tasks that can be handled in your local machine with the help of an assistant include:
+
+Open and close any application on your system.
+Search anything on Google, Youtube, Wikipedia and so on
+Get weather updates for any location asked.
+Tell current time & date
+Give calendar reminders on upcoming events.
+Send email through voice commands.
+Play or Stop music in our system.
+Solve any algebraic and mathematical problems.
+Restart, Sleep or Shut Down the system.
+In order to build a desktop assistant, you might need some modules to help out. Some of the key ones include: Pyttsx3, Speech Recognition, Twilio, 
+Subprocesses, Wikipedia, and a web browser.
+
+A desktop assistant can perform a single task or a variety of tasks, depending on the complexity of your coding. The more advanced your assistant is, 
+the more impressive it will be to potential employers.
+
+Speaking from experience, this can be a really amazing project to work on. Although I wasn't able to explore more functionalities, check out my 
+idea for a Desktop Assistant and implement more by adding your own ideas for features.
+
+github link: https://github.com/larymak/VirtualAssistant/blob/v1.0/main.py
+		

@@ -1,0 +1,8 @@
+Chatbots
+This is one of those python projects that might take a good chunk of your time. Moreover, if you’re interested in talking to Alexa or Siri
+ and want one for yourself, this is high time you take this one. But to build a chatbot, you would need to embed AI and machine learning along
+ with using Python as a base for your development. Don’t forget that you’d need pre-trained models, packages, and extensive libraries to make it feel real. 
+The chatbots are a kind of textual virtual assistant who answers your custom questions in textual format. They are used nowadays by several websites to provide
+ easy and speedy service to their customers. Chatbots require a good knowledge of text processing modules. Moreover, a large amount of time is required to train 
+these models due to their complexity and the size of the datasets. But, being a fresher, if you include this project in your resume it will create a hugely 
+positive effect on the mind of the 

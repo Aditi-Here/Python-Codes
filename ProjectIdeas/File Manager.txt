@@ -1,0 +1,19 @@
+File Manager
+
+Another good project idea is to code a file manager that renames or organizes files, archives unused files, or otherwise automates tedious file management tasks.
+
+This type of project is fairly easy, and it can be a good way to get started in Python.
+
+Working with files and documents can vary with different projects, so you can build different scripts, like:
+
+A script to Auto Move Files, https://github.com/larymak/Python-project-Scripts/tree/main/AUTOMATION/AutoMoveFiles
+A script that will enable you to get folder/file sizes, https://github.com/larymak/Python-project-Scripts/tree/main/AUTOMATION/Getting%20Files%20and%20Folders%20sizes
+A script to Delete duplicate files https://github.com/larymak/Python-project-Scripts/tree/main/AUTOMATION/Remove%20Duplicate%20Files%20in%20Folder
+To develop this kind of project, here are some of the modules you should know and keep in mind:
+
+Tkinter
+Shutil
+Os
+easygui
+Filedialog
+Imageio

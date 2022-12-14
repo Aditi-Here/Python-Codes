@@ -1,0 +1,14 @@
+Recommendation Systems
+
+If you’ve ever been recommended to purchase from Amazon when exiting their platform or browsing something, you’ve already seen the recommendation system
+ in its full colour. It is the digital marketing retargeting or display advertising that is used by various websites and applications to convert their
+ users to purchase maker customers. But have you ever noticed that the advertisements being displayed on your and your friend’s device are quite different? 
+Here is where AI/ML come into the picture. Now, what you need to understand is that Python as a language embeds many other tools such as AI and ML so that we
+ can take advantage of that as well. The recommendation systems are the simplest kind of python projects for resumes that you can go for as they do not require
+ much effort and brain. Moreover, python provides many inbuilt training models like linear regression that can help you to build your recommendation system in 
+just 20 to 30 lines of code.
+
+But we have to have browsing history, purchase history, client behaviour, session details, favourites, and more to make our system churn out good recommendations. 
+You just need to input all this information inside your training model and then test your model with custom input values. You can also calculate the accuracy of
+ your model by using the values for which you already have the solutions or recommendations. You can create a product recommendation, movie recommendation, 
+diagnosis recommendation, purchase recommendation and, other systems easily with different ML algorithms.

@@ -1,0 +1,16 @@
+Algorithmic Trader
+
+Algorithmic or Algo traders can not only showcase your Python skills, but they can also make you money - if you write a good script, that is.
+
+This is a more advanced project that will likely not be suitable for beginner coders. You’ll need to write a script that analyzes past and present stock values, 
+and uses machine learning to predict future values.
+
+Then, your trader will automatically buy or sell shares based on those predictions.
+
+In order to work on such a project, getting comfortable with Python and some of it's major topics like Data Structures and Object-Oriented Programming
+ will be necessity. Also knowing how to use external libraries 
+like Pandas, NumPy, and SciPy will be helpful.
+
+To help you get started with this knowledge, check out this course, Algorithmic Trading Using Python (and it includes some sample repos as well.
+
+link:https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/
