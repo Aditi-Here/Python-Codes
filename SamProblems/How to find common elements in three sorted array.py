@@ -11,3 +11,4 @@ for i in arr1:
         common.append(i)
 print(common)
 
+
