@@ -60,3 +60,4 @@ def findElementMatrix(arr):
 ac=findElementMatrix(arr)
 print(ac)
 
+# the more better approach in terms of complexity is explain in theory part.
