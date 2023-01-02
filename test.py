@@ -1,23 +1,42 @@
-from BinaryTree.BT_Node import Node
+from BinaryTree.BT_Node import  Node
 
-def printLevelOrder(root):
+def rightside(root):
+    queue = []
     if root is None:
-        return
-    queue=[]
-    queue.append(root)
-    while len(queue)>0:
-        print(queue[0].val,end=" ")
-        node=queue.pop(0)
-        if node.right is not None:
-            queue.append(node.right)
-        if node.left is not None:
-            queue.append(node.left)
-# Driver Program to test above function
-root = Node(3)
-root.left = Node(9)
-root.right = Node(20)
-root.right.left = Node(15)
-root.right.right = Node(7)
+        return []
+    queue.append([root, 0])
+    s = set()
+    ret = []
+    largeVal=[]
+    while len(queue) > 0:
+        cur = queue[0][0]
+        h = queue[0][1]
+        queue = queue[1:]
+        ret.append([cur.val,h])
+        if cur.left is not None:
+            queue.append([cur.left, h + 1])
+        if cur.right is not None:
+            queue.append([cur.right, h + 1])
 
-print("Level Order Traversal of binary tree is -")
-printLevelOrder(root)
+
+    return ret
+
+def largeValue(array):
+    h = array[0][1]
+    for i in range(1,len(array)):
+        h_=array[i][1]
+        if h<
+
+if __name__=="__main__":
+    root=Node(1)
+    root.left = Node(2)
+    root.right = Node(3)
+    # root.left.left = Node(4)
+    # root.right.left = Node(6)
+    # root.left.right = Node(5)
+    # root.right.right = Node(7)
+    right_side=rightside(root)
+    print(right_side)
+    largeValue(right_side)
+
+
